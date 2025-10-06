@@ -22,13 +22,13 @@
         <module>infrastructure</module>
     </modules>
 
-
     <properties>
         <maven.compiler.plugin.version>3.14.1</maven.compiler.plugin.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <mockito.version>5.20.0</mockito.version>
-        <kafka-avro-serializer.version>8.0.0</kafka-avro-serializer.version>
+        <kafka.avro.serializer.version>8.0.0</kafka.avro.serializer.version>
         <avro.version>1.12.0</avro.version>
+        <spring.kafka.version>3.3.10</spring.kafka.version>
     </properties>
 
     <dependencyManagement>

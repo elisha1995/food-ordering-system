@@ -10,8 +10,8 @@
     </parent>
 
     <artifactId>infrastructure</artifactId>
-
     <packaging>pom</packaging>
+
     <modules>
         <module>kafka</module>
     </modules>
